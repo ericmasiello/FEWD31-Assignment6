@@ -48,7 +48,13 @@ body {
 .container {
   width: 960px;
   margin: auto;
-  padding-top: 5em;
+  padding-top: 20px;
+}
+
+.results {
+  float: left;
+  width: 450px;
+  padding: 20px;
 }
 
 .fruit {
@@ -56,6 +62,7 @@ body {
   margin: 0;
   padding: 0;
   width: 450px;
+  float: left;
 }
 
 .fruit li {
