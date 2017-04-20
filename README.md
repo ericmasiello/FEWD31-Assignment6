@@ -40,14 +40,11 @@ The Fruitpedia design team has saved you the hassle of looking up the fruit fact
 
 ![Deliverable](images/fruitpedia_solution.png)
 
-
-
-
 <br>
 
 ---
 
-###Resources
+### Resources
 
 
 - [jQuery $(this) Selector with Examples](http://html-tuts.com/jquery-this-selector/)
