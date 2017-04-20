@@ -50,11 +50,8 @@ The Fruitpedia design team has saved you the hassle of looking up the fruit fact
 ###Resources
 
 
-- [W3Schools: Working with Arrays in JavaScript](http://www.w3schools.com/js/js_arrays.asp)
-- [MDN: Arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
-- [W3Schools: Loops in JavaScript](http://www.w3schools.com/js/js_loop_for.asp)
-- [W3Schools: Appending HTML elements using JavaScript](http://www.w3schools.com/jquery/html_append.asp)
-- [Kirupa.com: Looping in JavaScript](http://www.kirupa.com/html5/loops_in_javascript.htm)
+- [jQuery $(this) Selector with Examples](http://html-tuts.com/jquery-this-selector/)
+- [Escaping quotes in JavaScript](https://ga-students.github.io/fewd-dc-31/09_variables_conditionals/#/13/1)
 
 Read ahead [about responsive design for next week](http://www.smashingmagazine.com/2011/01/12/guidelines-for-responsive-web-design/)
 
@@ -63,7 +60,7 @@ Read ahead [about responsive design for next week](http://www.smashingmagazine.c
 
 ---
 
-###Evaluation / Submission
+### Evaluation / Submission
 
 
-Students should use the same folder and GitHub repository as the previous project ("homework-city"). When ready for evaluation they should push their code to that repository. Instructional team should evaluate against the solution code and the student's use of technical elements. They will provide a numeric grade on a scale: does not meet expectations (0); meets expectations (1); exceeds expectations (2).  The maximum possible score on this assignment is 16/16. Bonus materials are completely optional.
+When ready for evaluation they should push their code to that repository. Instructional team should evaluate against the solution code and the student's use of technical elements. They will provide a numeric grade on a scale: does not meet expectations (0); meets expectations (1); exceeds expectations (2).  The maximum possible score on this assignment is 12/12. Bonus materials are completely optional.
