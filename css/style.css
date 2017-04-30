@@ -78,7 +78,19 @@ body {
 
 .fruit .active {
   border-color: lime;
+
 }
+
+.results {display:none;}
+
+
+
+.results .active {display:block;}
+
+
+.results2 {display:none;}
+
+
 
 .apple {
   background-image: url('../images/apple.jpg');
