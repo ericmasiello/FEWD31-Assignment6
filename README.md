@@ -1,4 +1,4 @@
-# FEWD Week # 6: Using `this` with jQuery
+# FEWD Assignment #7: Using `this` with jQuery
 
 ---
 
