@@ -1,3 +1,5 @@
+/* global $ */
+
 /*
 Apple
 The apple tree (Malus pumila, commonly and erroneously called Malus domestica) is a deciduous tree in the rose family best known for its sweet, pomaceous fruit, the apple. It is cultivated worldwide as a fruit tree, and is the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today. Apples have been grown for thousands of years in Asia and Europe, and were brought to North America by European colonists. Apples have religious and mythological significance in many cultures, including Norse, Greek and European Christian traditions.
@@ -26,3 +28,50 @@ Pineapples can be consumed fresh, cooked, juiced, or preserved. They are found i
 Strawberry
 The garden strawberry (or simply strawberry; Fragaria × ananassa) is a widely grown hybrid species of the genus Fragaria (collectively known as the strawberries). It is cultivated worldwide for its fruit. The fruit (which is not a botanical berry, but an aggregate accessory fruit) is widely appreciated for its characteristic aroma, bright red color, juicy texture, and sweetness. It is consumed in large quantities, either fresh or in such prepared foods as preserves, fruit juice, pies, ice creams, milkshakes, and chocolates. Artificial strawberry flavorings and aromas are also widely used in many products like lip gloss, candy, hand sanitizers, perfume, and many others.
 */
+
+function showActive(){
+  
+  $('li').removeClass('active');
+  $(this).addClass('active');
+  
+}
+
+function apple(){
+  console.log('apple');
+}
+function banana(){
+  console.log('banana');
+}
+function cherry(){
+  console.log('cherry');
+}
+function grape(){
+  console.log('grape');
+}
+function orange(){
+  console.log('orange');
+}
+function peach(){
+  console.log('peach');
+}
+function pear(){
+  console.log('pear');
+}
+function pineapple(){
+  console.log('pineapple');
+}
+function strawberry(){
+  console.log('strawberry');
+  
+}
+
+$('li').click(showActive);
+$('.apple').click(apple);
+$('.banana').click(banana);
+$('.cherry').click(cherry);
+$('.grape').click(grape);
+$('.orange').click(orange);
+$('.peach').click(peach);
+$('.pear').click(pear);
+$('.pineapple').click(pineapple);
+$('.strawberry').click(strawberry);
